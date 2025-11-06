@@ -1,0 +1,1 @@
+This is a website I made in 2025 for HDCC106 Interactive Experience Design. It was designed in Figma \([see it here](https://www.figma.com/design/Vm7X0aEvlhjyyWcl9OL3QA/HDCC-Interface-Draft?node-id=17-209&t=ldYEE4zZpxE2edwB-1)\) and programmed and hosted on Glitch, which no longer exists. This repo contains the files as exported from Glitch. 
